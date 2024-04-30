@@ -1,0 +1,1 @@
+<?php /*!*/@/**8**/null; echo@null;@null;?>

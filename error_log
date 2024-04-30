@@ -1,0 +1,100 @@
+[09-Oct-2020 14:10:45 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/megn4313/public_html/config.php on line 12
+[09-Oct-2020 14:10:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/megn4313/public_html/core/menu/topmenu.php on line 77
+[09-Oct-2020 14:10:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/megn4313/public_html/core/menu/topmenu.php on line 80
+[09-Oct-2020 14:10:50 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/megn4313/public_html/config.php on line 12
+[09-Oct-2020 14:10:50 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/megn4313/public_html/core/menu/topmenu.php on line 77
+[09-Oct-2020 14:10:50 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/megn4313/public_html/core/menu/topmenu.php on line 80
+[09-Oct-2020 14:11:05 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/megn4313/public_html/core/menu/topmenu.php on line 77
+[09-Oct-2020 14:11:05 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/megn4313/public_html/core/menu/topmenu.php on line 80
+[09-Oct-2020 14:11:07 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/megn4313/public_html/core/menu/topmenu.php on line 77
+[09-Oct-2020 14:11:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/megn4313/public_html/core/menu/topmenu.php on line 80
+[09-Oct-2020 14:12:32 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/megn4313/public_html/core/menu/topmenu.php on line 77
+[09-Oct-2020 14:12:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/megn4313/public_html/core/menu/topmenu.php on line 80
+[09-Oct-2020 15:22:49 Asia/Jakarta] PHP Warning:  move_uploaded_file(img/youtube-com-1-e1539806671110.jpg): failed to open stream: No such file or directory in /home/megn4313/public_html/save_query.php on line 20
+[09-Oct-2020 15:22:49 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1SBC8u' to 'img/youtube-com-1-e1539806671110.jpg' in /home/megn4313/public_html/save_query.php on line 20
+[09-Oct-2020 15:23:17 Asia/Jakarta] PHP Warning:  move_uploaded_file(img/youtube-com-1-e1539806671110.jpg): failed to open stream: No such file or directory in /home/megn4313/public_html/save_query.php on line 20
+[09-Oct-2020 15:23:17 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1it2Dv' to 'img/youtube-com-1-e1539806671110.jpg' in /home/megn4313/public_html/save_query.php on line 20
+[09-Oct-2020 15:23:47 Asia/Jakarta] PHP Warning:  move_uploaded_file(img/youtube-com-1-e1539806671110.jpg): failed to open stream: No such file or directory in /home/megn4313/public_html/save_query.php on line 20
+[09-Oct-2020 15:23:47 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpLCJFlD' to 'img/youtube-com-1-e1539806671110.jpg' in /home/megn4313/public_html/save_query.php on line 20
+[09-Oct-2020 15:23:55 Asia/Jakarta] PHP Warning:  move_uploaded_file(img/youtube-com-1-e1539806671110.jpg): failed to open stream: No such file or directory in /home/megn4313/public_html/save_query.php on line 20
+[09-Oct-2020 15:23:55 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpHBlRqU' to 'img/youtube-com-1-e1539806671110.jpg' in /home/megn4313/public_html/save_query.php on line 20
+[30-Jul-2021 09:34:24 Asia/Jakarta] PHP Warning:  Packets out of order. Expected 0 received 1. Packet size=23 in /home/megn4313/public_html/config.php on line 12
+[30-Jul-2021 09:34:24 Asia/Jakarta] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[30-Jul-2021 09:34:24 Asia/Jakarta] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=25070 in /home/megn4313/public_html/config.php on line 12
+[30-Jul-2021 09:34:24 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[04-Oct-2021 21:42:53 Asia/Jakarta] PHP Warning:  Packets out of order. Expected 0 received 1. Packet size=23 in /home/megn4313/public_html/config.php on line 12
+[04-Oct-2021 21:42:53 Asia/Jakarta] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[04-Oct-2021 21:42:53 Asia/Jakarta] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=44481 in /home/megn4313/public_html/config.php on line 12
+[04-Oct-2021 21:42:53 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[04-Oct-2021 21:42:53 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/megn4313/public_html/config.php on line 12
+[04-Oct-2021 21:42:54 Asia/Jakarta] PHP Warning:  Packets out of order. Expected 0 received 1. Packet size=23 in /home/megn4313/public_html/config.php on line 12
+[04-Oct-2021 21:42:54 Asia/Jakarta] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[04-Oct-2021 21:42:54 Asia/Jakarta] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=45087 in /home/megn4313/public_html/config.php on line 12
+[04-Oct-2021 21:42:54 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[04-Oct-2021 21:42:57 Asia/Jakarta] PHP Warning:  Packets out of order. Expected 0 received 1. Packet size=23 in /home/megn4313/public_html/config.php on line 12
+[04-Oct-2021 21:42:57 Asia/Jakarta] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[04-Oct-2021 21:42:57 Asia/Jakarta] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=46658 in /home/megn4313/public_html/config.php on line 12
+[04-Oct-2021 21:42:57 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[04-Oct-2021 21:43:23 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:32 Asia/Jakarta] PHP Warning:  Packets out of order. Expected 0 received 1. Packet size=23 in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:32 Asia/Jakarta] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:32 Asia/Jakarta] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=3423 in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:32 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:32 Asia/Jakarta] PHP Warning:  Packets out of order. Expected 0 received 1. Packet size=23 in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:32 Asia/Jakarta] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:32 Asia/Jakarta] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=3704 in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:32 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:35 Asia/Jakarta] PHP Warning:  Packets out of order. Expected 0 received 1. Packet size=23 in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:35 Asia/Jakarta] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:35 Asia/Jakarta] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=5037 in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:35 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:42 Asia/Jakarta] PHP Warning:  Packets out of order. Expected 0 received 1. Packet size=23 in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:42 Asia/Jakarta] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:42 Asia/Jakarta] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=8627 in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:42 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:52 Asia/Jakarta] PHP Warning:  Packets out of order. Expected 0 received 1. Packet size=23 in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:52 Asia/Jakarta] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:52 Asia/Jakarta] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=13461 in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:52 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:54 Asia/Jakarta] PHP Warning:  Packets out of order. Expected 0 received 1. Packet size=23 in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:54 Asia/Jakarta] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:54 Asia/Jakarta] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=14521 in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 05:28:54 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 20:17:15 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 20:17:16 Asia/Jakarta] PHP Warning:  Packets out of order. Expected 0 received 1. Packet size=23 in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 20:17:16 Asia/Jakarta] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 20:17:16 Asia/Jakarta] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=4068 in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 20:17:16 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 20:17:19 Asia/Jakarta] PHP Warning:  Packets out of order. Expected 0 received 1. Packet size=23 in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 20:17:19 Asia/Jakarta] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 20:17:19 Asia/Jakarta] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=5962 in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 20:17:19 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/megn4313/public_html/config.php on line 12
+[11-Oct-2021 20:17:20 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/megn4313/public_html/config.php on line 12
+[03-May-2022 13:43:56 Asia/Jakarta] PHP Warning:  include(): Filename cannot be empty in /home/megn4313/public_html/core/code/route.php on line 59
+[03-May-2022 13:43:56 Asia/Jakarta] PHP Warning:  include(): Filename cannot be empty in /home/megn4313/public_html/core/code/route.php on line 59
+[03-May-2022 13:43:56 Asia/Jakarta] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/megn4313/public_html/core/code/route.php on line 59
+[13-Jul-2022 13:18:18 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/megn4313/public_html/config.php on line 12
+[13-Jul-2022 13:18:18 Asia/Jakarta] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/megn4313/public_html/config.php on line 12
+[13-Jul-2022 13:18:18 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/megn4313/public_html/config.php on line 12
+[18-Jul-2022 14:01:06 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/megn4313/public_html/config.php on line 12
+[19-Jul-2022 09:11:54 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/megn4313/public_html/config.php on line 12
+[19-Jul-2022 09:11:54 Asia/Jakarta] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/megn4313/public_html/config.php on line 12
+[19-Jul-2022 09:12:31 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/megn4313/public_html/config.php on line 12
+[19-Jul-2022 19:53:43 Asia/Jakarta] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/megn4313/public_html/config.php on line 12
+[19-Jul-2022 19:53:43 Asia/Jakarta] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/megn4313/public_html/config.php on line 12
+[19-Jul-2022 19:53:43 Asia/Jakarta] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/megn4313/public_html/config.php on line 12
+[19-Jul-2022 19:53:43 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/megn4313/public_html/config.php on line 12
+[19-Jul-2022 19:56:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/megn4313/public_html/config.php on line 12
+[12-Dec-2022 14:02:52 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/megn4313/public_html/config.php on line 12
+[12-Dec-2022 14:03:07 Asia/Jakarta] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/megn4313/public_html/config.php on line 12
+[19-Jan-2023 19:00:22 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/megn4313/public_html/config.php on line 12
+[19-Jan-2023 19:00:26 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/megn4313/public_html/config.php on line 12
+[20-Jan-2023 18:28:50 Asia/Jakarta] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/megn4313/public_html/config.php on line 12
+[20-Jan-2023 18:28:52 Asia/Jakarta] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/megn4313/public_html/config.php on line 12
+[21-Feb-2023 19:17:20 Asia/Jakarta] PHP Warning:  include(): Filename cannot be empty in /home/megn4313/public_html/core/code/route.php on line 67
+[21-Feb-2023 19:17:20 Asia/Jakarta] PHP Warning:  include(): Filename cannot be empty in /home/megn4313/public_html/core/code/route.php on line 67
+[21-Feb-2023 19:17:20 Asia/Jakarta] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/megn4313/public_html/core/code/route.php on line 67
+[16-May-2023 13:35:25 Asia/Jakarta] PHP Warning:  include(): Filename cannot be empty in /home/megn4313/public_html/core/code/route.php on line 67
+[16-May-2023 13:35:25 Asia/Jakarta] PHP Warning:  include(): Filename cannot be empty in /home/megn4313/public_html/core/code/route.php on line 67
+[16-May-2023 13:35:25 Asia/Jakarta] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/megn4313/public_html/core/code/route.php on line 67

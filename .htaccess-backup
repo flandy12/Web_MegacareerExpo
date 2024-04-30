@@ -1,0 +1,18 @@
+RewriteEngine On
+RewriteRule ^index index.php [NC,L]
+RewriteRule ^about index.php?page=about [NC,L]
+RewriteRule ^upcoming-event index.php?page=upcoming-event [NC,L]
+RewriteRule ^exhibitor index.php?page=exhibitor [NC,L]
+RewriteRule ^gallery index.php?page=gallery [NC,L]
+RewriteRule ^internship index.php?page=internship [NC,L]
+RewriteRule ^tips index.php?page=tips [NC,L]
+RewriteRule ^about index.php?page=about [NC,L]
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php72” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php72___lsphp .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
